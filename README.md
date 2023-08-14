@@ -14,7 +14,7 @@
 
   <h2> Primeiro projeto feito em 2019</h2>
 
-   <h3>TEste projeto foi feito por mim e 2 amigos, foi o nosso 1º projeto num curso de desenvolvimento de jogos </h3>
+   <h3>Este projeto foi feito por mim e 2 amigos, foi o nosso 1º projeto num curso de desenvolvimento de jogos </h3>
    <h3>Perdi o ficheiro com o jogo final e por causa disso só o 1º lvl está a funcioanr</h3>
    <h3>Para a entrega final foi resolvido o problema de só se ter 2HP, da bounding box do boomerang aparecer e de os mapas desaparecerem do ui</h3>
    <h3>Vou tentar encontrar os ficheiros da entrega final, mas até lá, deixo ume xemplo do nosso trabalho aqui</h3>
